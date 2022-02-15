@@ -1,4 +1,4 @@
-import { useContext, useState, useEffect } from 'react'
+import { useContext, useState } from 'react'
 
 import Avatar from '@mui/material/Avatar'
 import Brightness2Icon from '@material-ui/icons/Brightness2'
@@ -26,9 +26,7 @@ const Navbar = () => {
   const changetoHe = () => {
     i18next.changeLanguage('he')
   }
-  useEffect(() => {
-    console.log(t('welcome'))
-  })
+
   return (
     <nav className='center nav'>
       <ul
@@ -51,11 +49,10 @@ const Navbar = () => {
         </li>
         <li className='nav__list-item'>
           <a href='#contact' onClick={toggleNavList} className='link link--nav'>
-             {t('contact')}
+            {t('contact')}
           </a>
         </li>
       </ul>
-      
 
       <button
         type='button'
@@ -67,7 +64,7 @@ const Navbar = () => {
       >
         <Avatar
           src='https://catamphetamine.gitlab.io/country-flag-icons/3x2/IL.svg'
-          sx={{ width: 25, height: 25 }}
+          sx={{ width: 20, height: 20 }}
         />
       </button>
       <button
@@ -80,7 +77,7 @@ const Navbar = () => {
       >
         <Avatar
           src='https://catamphetamine.gitlab.io/country-flag-icons/3x2/GB.svg'
-          sx={{ width: 25, height: 25 }}
+          sx={{ width: 20, height: 20 }}
         />
       </button>
       <button

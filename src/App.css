@@ -6,7 +6,7 @@
 }
 
 .light {
-  --clr-bg: #fcfcfc;
+  --clr-bg: #fcfcfcb0;
   --clr-bg-alt: #fff;
   --clr-fg: #555;
   --clr-fg-alt: #444;
@@ -15,7 +15,7 @@
 }
 
 .dark {
-  --clr-bg: #23283e;
+  --clr-bg: hsl(231, 34%, 41%);
   --clr-bg-alt: #2a2f4c;
   --clr-fg: #bdbddd;
   --clr-fg-alt: #cdcdff;

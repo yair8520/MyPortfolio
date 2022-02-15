@@ -6,8 +6,7 @@ import './Projects.css'
 
 const Projects = () => {
   const { t } = useTranslation()
-  const projectsMap = t('projectsMap')
-  console.log(projectsMap)
+
   return (
     <section id='projects' className='section projects'>
       <h2 className='section__title'>{t('projects')}</h2>

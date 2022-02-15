@@ -1,7 +1,6 @@
 import { useContext, useEffect } from 'react'
 import { useTranslation } from 'react-i18next'
 import cookies from 'js-cookie'
-import i18next from 'i18next'
 import { ThemeContext } from './contexts/theme'
 import Header from './components/Header/Header'
 import About from './components/About/About'
@@ -12,7 +11,8 @@ import Contact from './components/Contact/Contact'
 import Footer from './components/Footer/Footer'
 import './App.css'
 import FixSocialIcon from './SocialIcon/FixSocialIcon'
-import Particles from './components/particals/Particles'
+
+// import Particles from './components/particals/Particles'
 
 const languages = [
   {
@@ -35,7 +35,6 @@ const App = () => {
   const { t } = useTranslation()
 
   useEffect(() => {
-    console.log(currentLanguage)
     document.body.dir = currentLanguage.dir || 'ltr'
   }, [currentLanguage, t])
 
@@ -44,7 +43,7 @@ const App = () => {
       <Header />
 
       <main>
-        {/* <Particles/> */}
+         {/* <Particles/>  */}
         <About />
         <Projects />
         <Skills />

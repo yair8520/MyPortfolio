@@ -2,9 +2,9 @@ import React from "react";
 import { Particles as ReactParticles } from "react-tsparticles";
 import { makeStyles } from "@material-ui/core/styles";
 
-const useStyles = makeStyles((theme) => ({
+const useStyles = makeStyles(() => ({
   particlesCanvas: {
-    position: "fixed",
+    position: "",
     opacity: "0.3"
   },
 }));
@@ -25,14 +25,14 @@ const Particles = () => {
             },
           },
           shape: {
-            type: "circle",
+            type: "line",
             stroke: {
               width: 5,
               color: "tomato",
             },
           },
           size: {
-            value: 8,
+            value: 7,
             random: true,
             anim: {
               enable: false,

@@ -2,9 +2,6 @@ import Avatar from '@mui/material/Avatar'
 import Slide from 'react-reveal/Slide'
 
 import Typed from 'react-typed'
-
-import GitHubIcon from '@material-ui/icons/GitHub'
-import LinkedInIcon from '@material-ui/icons/LinkedIn'
 import { useTranslation } from 'react-i18next'
 import { about } from '../../portfolio'
 import im from '../../static/images/comp.png'
@@ -12,7 +9,7 @@ import cv from '../../static/images/YairGabay.CV.pdf'
 import './About.css'
 
 const About = () => {
-  const { role, description, social } = about
+  const { role } = about
   const { t } = useTranslation()
   return (
     <div className='about center'>
