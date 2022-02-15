@@ -1,0 +1,56 @@
+{
+  "welcome": "Hey i am  ",
+  "name": "Yair Gabay",
+  "role": "Front End Engineer",
+  "description": "I have always loved software development, the ability to create something new from scratch.I'm looking for a place where I can grow and use all my abilities.",
+  "projects": "Projects",
+  "skills": "Skills",
+  "contact": "Contact",
+  "email": "Email Me",
+  "resume": "Resume",
+  "lookingFor": "I am looking for:",
+  "projectsMap": [
+    {
+      "name": "Dragon Stack",
+      "description": "A dragon store, where you can collect your dragons for sale and breeding between different users on the site.",
+      "stack": ["Node.js", "React", "PostgreSQL", "Redux"],
+      "sourceCode": "https://github.com/yair8520/DragonStackApp",
+      "livePreview": ""
+    },
+    {
+      "name": "Chat app",
+      "description": "Multi-user chat room that supports user authentication and database storage.",
+      "stack": ["JAVA", "SPRING", "MySQL"],
+      "sourceCode": "https://github.com/yair8520/Chat-room",
+      "livePreview": ""
+    },
+    {
+      "name": "Chat Rooms",
+      "description": "Real-time chat rooms app,with the help of Socket.io connections.",
+      "stack": ["Node.js", "React", "Socket.io"],
+      "sourceCode": "https://github.com/yair8520/chat-socketIo-node.js-react.js",
+      "livePreview": ""
+    },
+    {
+      "name": "Worms",
+      "description": "The classic Worms game,a few maps and complete physics control.",
+      "stack": ["C++", "SFML", "Box2D"],
+      "sourceCode": "https://github.com/yair8520/Worms-master-game",
+      "livePreview": ""
+    },
+    {
+      "name": "Forcast",
+      "description": "Weather forecast site, supports saving locations by user .",
+      "stack": ["Node.js", "SqLite", "HTML"],
+      "sourceCode": "https://github.com/yair8520/Forcast",
+      "livePreview": ""
+    },
+    {
+      "name": "WhatsRelevant",
+      "description": "A mobile app that will filter and alert, all relevant information from WhatsApp according to your request.* under construction",
+      "stack": ["Node.js", "React Native", "Socket.io"],
+      "sourceCode": "/",
+      "livePreview": ""
+    }
+  ]
+}

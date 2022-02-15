@@ -1,0 +1,56 @@
+{
+  "welcome": "היי, אני ",
+  "name": "יאיר גבאי",
+  "role": "מפתח תוכנה",
+  "description": "תמיד אהבתי פיתוח תוכנה, את היכולת ליצור משהו חדש מאפס,אני מחפשת מקום בו אוכל לצמוח ולהשתמש בכל היכולות שלי.",
+  "projects": "פרויקטים",
+  "skills": "כישורים",
+  "contact": "צור קשר",
+  "email": "שלח מייל",
+  "resume": "קורות חיים",
+  "lookingFor": " אני מחפש משרת:",
+  "projectsMap": [
+    {
+      "name": "Dragon Stack",
+      "description": "חנות דרקונים , בה תוכלו לאסוף את הדרקונים שלכם למכירה ולרבייה בין משתמשים שונים באתר.",
+      "stack": ["Node.js", "React", "PostgreSQL", "Redux"],
+      "sourceCode": "https://github.com/yair8520/DragonStackApp",
+      "livePreview": ""
+    },
+    {
+      "name": "Chat app",
+      "description": "חדר צ'אט מרובה משתמשים התומך באימות משתמשים ובשמירת המידע במסד נתונים.",
+      "stack": ["JAVA", "SPRING", "MySQL"],
+      "sourceCode": "https://github.com/yair8520/Chat-room",
+      "livePreview": ""
+    },
+    {
+      "name": "Chat Rooms",
+      "description": "אפליקציית חדרי צ'אט בזמן אמת, בעזרת חיבורי Socket.io. ",
+      "stack": ["Node.js", "React", "Socket.io"],
+      "sourceCode": "https://github.com/yair8520/chat-socketIo-node.js-react.js",
+      "livePreview": ""
+    },
+    {
+      "name": "Worms",
+      "description": "משחק Worms הקלאסית מספר מפות בנוסף שליטה פיזיקלית מלאה.",
+      "stack": ["C++", "SFML", "Box2D"],
+      "sourceCode": "https://github.com/yair8520/Worms-master-game",
+      "livePreview": ""
+    },
+    {
+      "name": "Forcast",
+      "description": "אתר תחזית מזג אוויר, תומך בשמירת מיקומים לפי משתמש.",
+      "stack": ["Node.js", "SqLite", "HTML"],
+      "sourceCode": "https://github.com/yair8520/Forcast",
+      "livePreview": ""
+    },
+    {
+      "name": "WhatsRelevant",
+      "description": "אפליקציה לנייד שתסנן ותתריע, כל המידע הרלוונטי מוואטסאפ לפי בקשתך. *תחת בנייה.",
+      "stack": ["Node.js", "React Native", "Socket.io"],
+      "sourceCode": "",
+      "livePreview": ""
+    }
+  ]
+}

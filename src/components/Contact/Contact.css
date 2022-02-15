@@ -1,0 +1,6 @@
+.contact {
+  flex-direction: column;
+}
+.contactOptions {
+  flex-direction: row;
+}
