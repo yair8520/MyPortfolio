@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/MySimplePortfolio/static/css/main.e534ea0e.chunk.css",
-    "main.js": "/MySimplePortfolio/static/js/main.2ad6ba75.chunk.js",
-    "main.js.map": "/MySimplePortfolio/static/js/main.2ad6ba75.chunk.js.map",
+    "main.js": "/MySimplePortfolio/static/js/main.5fcc0644.chunk.js",
+    "main.js.map": "/MySimplePortfolio/static/js/main.5fcc0644.chunk.js.map",
     "runtime-main.js": "/MySimplePortfolio/static/js/runtime-main.a64b5ab3.js",
     "runtime-main.js.map": "/MySimplePortfolio/static/js/runtime-main.a64b5ab3.js.map",
     "static/js/2.a87bd3b1.chunk.js": "/MySimplePortfolio/static/js/2.a87bd3b1.chunk.js",
@@ -10,7 +10,7 @@
     "index.html": "/MySimplePortfolio/index.html",
     "static/css/main.e534ea0e.chunk.css.map": "/MySimplePortfolio/static/css/main.e534ea0e.chunk.css.map",
     "static/js/2.a87bd3b1.chunk.js.LICENSE.txt": "/MySimplePortfolio/static/js/2.a87bd3b1.chunk.js.LICENSE.txt",
-    "static/media/YairGabay.CV.8ab91d6e.pdf": "/MySimplePortfolio/static/media/YairGabay.CV.8ab91d6e.pdf",
+    "static/media/YairGabay.CV.8be4b288.pdf": "/MySimplePortfolio/static/media/YairGabay.CV.8be4b288.pdf",
     "static/media/call.c49c37f5.png": "/MySimplePortfolio/static/media/call.c49c37f5.png",
     "static/media/comp.82c3bec2.png": "/MySimplePortfolio/static/media/comp.82c3bec2.png",
     "static/media/getFetch.cjs": "/MySimplePortfolio/static/media/getFetch.582d29c4.cjs"
@@ -19,6 +19,6 @@
     "static/js/runtime-main.a64b5ab3.js",
     "static/js/2.a87bd3b1.chunk.js",
     "static/css/main.e534ea0e.chunk.css",
-    "static/js/main.2ad6ba75.chunk.js"
+    "static/js/main.5fcc0644.chunk.js"
   ]
 }
