@@ -12,7 +12,6 @@ import Footer from './components/Footer/Footer'
 import './App.css'
 import FixSocialIcon from './SocialIcon/FixSocialIcon'
 
-// import Particles from './components/particals/Particles'
 
 const languages = [
   {
@@ -43,7 +42,6 @@ const App = () => {
       <Header />
 
       <main>
-         {/* <Particles/>  */}
         <About />
         <Projects />
         <Skills />
