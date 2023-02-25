@@ -2,14 +2,23 @@
   "welcome": "Hey i am  ",
   "name": "Yair Gabay",
   "role": "Front End Engineer",
-  "description": "I have always loved software development, the ability to create something new from scratch.I'm looking for a place where I can grow and use all my abilities.",
+  "description": "I have always loved software development, the ability to create something new from scratch.\nI'm looking for a place where I can grow and use all my abilities.",
   "projects": "Projects",
   "skills": "Skills",
   "contact": "Contact",
   "email": "Email Me",
   "resume": "Resume",
-  "lookingFor": "I am looking for:",
+  "new": "New",
+  "lookingFor": "I am a",
   "projectsMap": [
+    {
+      "name": "Notes",
+      "description": "Notes application for mobile,Adding Notes and Links with a lot of features. visit the link below for more info.",
+      "stack": ["React Native","Redux-ToolKit","TypeScript"],
+      "sourceCode": "https://github.com/yair8520/Notes-Clone",
+      "livePreview": "",
+      "new": "New"
+    },
     {
       "name": "Dragon Stack",
       "description": "A dragon store, where you can collect your dragons for sale and breeding between different users on the site.",
@@ -43,13 +52,6 @@
       "description": "Weather forecast site, supports saving locations by user .",
       "stack": ["Node.js", "SqLite", "HTML"],
       "sourceCode": "https://github.com/yair8520/Forcast",
-      "livePreview": ""
-    },
-    {
-      "name": "WhatsRelevant",
-      "description": "A mobile app that will filter and alert, all relevant information from WhatsApp according to your request.* under construction",
-      "stack": ["Node.js", "React Native", "Socket.io"],
-      "sourceCode": "/",
       "livePreview": ""
     }
   ]

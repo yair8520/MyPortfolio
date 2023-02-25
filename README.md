@@ -2,6 +2,6 @@
 
 
 
-[See Live](https://yair8520.github.io/MySimplePortfolio/)
+[See Live](https://yair8520.github.io/MyPortfolio/)
 
 

@@ -20,7 +20,7 @@ const About = () => {
       </Slide>
 
       <Avatar src={im} sx={{ width: 100, height: 100 }} />
-      <h4 className='about__role'>{t('lookingFor')}</h4>
+      {/* <h4 className='about__role'>{t('lookingFor')}</h4> */}
       <h2 className='about__role'>
         <Typed strings={[...role]} typeSpeed={100} />
       </h2>

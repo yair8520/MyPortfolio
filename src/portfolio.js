@@ -4,7 +4,7 @@ const header = {
 }
 
 const about = {
-  role: ['FrontEnd Engineer', 'BackEnd Engineer', 'fullStack Engineer'],
+  role: ['Mobile App developer', 'Website developer', 'fullStack Engineer'],
 
   social: {
     linkedin: 'https://www.linkedin.com/in/yair-gabay-aba1b8207/',

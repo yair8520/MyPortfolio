@@ -31,3 +31,12 @@
 .project .link--icon {
   margin-left: 0.5em;
 }
+.ribbon {
+  color: var(--clr-fg-alt);
+  position: relative;
+  z-index: 5;
+  top: 0;
+  background: red;
+  height: 20px;
+  width: 50px;
+}

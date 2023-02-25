@@ -8,14 +8,16 @@
   "contact": "צור קשר",
   "email": "שלח מייל",
   "resume": "קורות חיים",
+  "new": "חדש",
   "lookingFor": " אני מחפש משרת:",
   "projectsMap": [
     {
-      "name": "Dragon Stack",
-      "description": "חנות דרקונים , בה תוכלו לאסוף את הדרקונים שלכם למכירה ולרבייה בין משתמשים שונים באתר.",
-      "stack": ["Node.js", "React", "PostgreSQL", "Redux"],
-      "sourceCode": "https://github.com/yair8520/DragonStackApp",
-      "livePreview": ""
+      "name": "Notes",
+      "description": "אפליקציית פתקים לנייד, הוספת הערות וקישורים עם הרבה תכונות. בקר בקישור למטה למידע נוסף.",
+      "stack": ["React Native","Redux-ToolKit","TypeScript"],
+      "sourceCode": "https://github.com/yair8520/Notes-Clone",
+      "livePreview": "",
+      "new": "חדש"
     },
     {
       "name": "Chat app",
