@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/MySimplePortfolio/static/css/main.e534ea0e.chunk.css",
-    "main.js": "/MySimplePortfolio/static/js/main.baeee188.chunk.js",
-    "main.js.map": "/MySimplePortfolio/static/js/main.baeee188.chunk.js.map",
-    "runtime-main.js": "/MySimplePortfolio/static/js/runtime-main.a64b5ab3.js",
-    "runtime-main.js.map": "/MySimplePortfolio/static/js/runtime-main.a64b5ab3.js.map",
-    "static/js/2.2149ea98.chunk.js": "/MySimplePortfolio/static/js/2.2149ea98.chunk.js",
-    "static/js/2.2149ea98.chunk.js.map": "/MySimplePortfolio/static/js/2.2149ea98.chunk.js.map",
-    "index.html": "/MySimplePortfolio/index.html",
-    "static/css/main.e534ea0e.chunk.css.map": "/MySimplePortfolio/static/css/main.e534ea0e.chunk.css.map",
-    "static/js/2.2149ea98.chunk.js.LICENSE.txt": "/MySimplePortfolio/static/js/2.2149ea98.chunk.js.LICENSE.txt",
-    "static/media/YairGabay.CV.4c7cdd94.pdf": "/MySimplePortfolio/static/media/YairGabay.CV.4c7cdd94.pdf",
-    "static/media/call.c49c37f5.png": "/MySimplePortfolio/static/media/call.c49c37f5.png",
-    "static/media/comp.82c3bec2.png": "/MySimplePortfolio/static/media/comp.82c3bec2.png",
-    "static/media/getFetch.cjs": "/MySimplePortfolio/static/media/getFetch.582d29c4.cjs"
+    "main.css": "/MyPortfolio/static/css/main.38eea66c.chunk.css",
+    "main.js": "/MyPortfolio/static/js/main.52eaa928.chunk.js",
+    "main.js.map": "/MyPortfolio/static/js/main.52eaa928.chunk.js.map",
+    "runtime-main.js": "/MyPortfolio/static/js/runtime-main.ebec71e6.js",
+    "runtime-main.js.map": "/MyPortfolio/static/js/runtime-main.ebec71e6.js.map",
+    "static/js/2.67018dc6.chunk.js": "/MyPortfolio/static/js/2.67018dc6.chunk.js",
+    "static/js/2.67018dc6.chunk.js.map": "/MyPortfolio/static/js/2.67018dc6.chunk.js.map",
+    "index.html": "/MyPortfolio/index.html",
+    "static/css/main.38eea66c.chunk.css.map": "/MyPortfolio/static/css/main.38eea66c.chunk.css.map",
+    "static/js/2.67018dc6.chunk.js.LICENSE.txt": "/MyPortfolio/static/js/2.67018dc6.chunk.js.LICENSE.txt",
+    "static/media/YairGabay.CV.cb932169.pdf": "/MyPortfolio/static/media/YairGabay.CV.cb932169.pdf",
+    "static/media/call.c49c37f5.png": "/MyPortfolio/static/media/call.c49c37f5.png",
+    "static/media/comp.82c3bec2.png": "/MyPortfolio/static/media/comp.82c3bec2.png",
+    "static/media/getFetch.cjs": "/MyPortfolio/static/media/getFetch.582d29c4.cjs"
   },
   "entrypoints": [
-    "static/js/runtime-main.a64b5ab3.js",
-    "static/js/2.2149ea98.chunk.js",
-    "static/css/main.e534ea0e.chunk.css",
-    "static/js/main.baeee188.chunk.js"
+    "static/js/runtime-main.ebec71e6.js",
+    "static/js/2.67018dc6.chunk.js",
+    "static/css/main.38eea66c.chunk.css",
+    "static/js/main.52eaa928.chunk.js"
   ]
 }
