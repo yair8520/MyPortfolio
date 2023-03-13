@@ -1,7 +1,7 @@
-# My simple portfolio
+# My Portfolio
 
 
 
-[See Live](https://yair8520.github.io/MyPortfolio/)
+[Live Demonstration](https://yair8520.github.io/MyPortfolio/)
 
 
