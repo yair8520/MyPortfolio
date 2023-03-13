@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/MyPortfolio/static/css/main.38eea66c.chunk.css",
-    "main.js": "/MyPortfolio/static/js/main.52eaa928.chunk.js",
-    "main.js.map": "/MyPortfolio/static/js/main.52eaa928.chunk.js.map",
+    "main.js": "/MyPortfolio/static/js/main.81c8854e.chunk.js",
+    "main.js.map": "/MyPortfolio/static/js/main.81c8854e.chunk.js.map",
     "runtime-main.js": "/MyPortfolio/static/js/runtime-main.ebec71e6.js",
     "runtime-main.js.map": "/MyPortfolio/static/js/runtime-main.ebec71e6.js.map",
     "static/js/2.67018dc6.chunk.js": "/MyPortfolio/static/js/2.67018dc6.chunk.js",
@@ -10,7 +10,7 @@
     "index.html": "/MyPortfolio/index.html",
     "static/css/main.38eea66c.chunk.css.map": "/MyPortfolio/static/css/main.38eea66c.chunk.css.map",
     "static/js/2.67018dc6.chunk.js.LICENSE.txt": "/MyPortfolio/static/js/2.67018dc6.chunk.js.LICENSE.txt",
-    "static/media/YairGabay.CV.cb932169.pdf": "/MyPortfolio/static/media/YairGabay.CV.cb932169.pdf",
+    "static/media/YairGabay.CV.0acc95cb.pdf": "/MyPortfolio/static/media/YairGabay.CV.0acc95cb.pdf",
     "static/media/call.c49c37f5.png": "/MyPortfolio/static/media/call.c49c37f5.png",
     "static/media/comp.82c3bec2.png": "/MyPortfolio/static/media/comp.82c3bec2.png",
     "static/media/getFetch.cjs": "/MyPortfolio/static/media/getFetch.582d29c4.cjs"
@@ -19,6 +19,6 @@
     "static/js/runtime-main.ebec71e6.js",
     "static/js/2.67018dc6.chunk.js",
     "static/css/main.38eea66c.chunk.css",
-    "static/js/main.52eaa928.chunk.js"
+    "static/js/main.81c8854e.chunk.js"
   ]
 }
