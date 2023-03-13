@@ -28,7 +28,7 @@ const About = () => {
       <p className='about__desc'>{t('description')}</p>
 
       <div className='about__contact center'>
-        <a href={cv} download>
+        <a href={cv} download="YairGabay.CV.pdf">
           <span type='button' className='btn btn--outline'>
             {t('resume')}
           </span>
