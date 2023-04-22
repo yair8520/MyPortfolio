@@ -12,9 +12,17 @@
   "lookingFor": " אני מחפש משרת:",
   "projectsMap": [
     {
+      "name": "Dev-Tools",
+      "description": "A WebSite that contains useful tools for the developer.\nJson Formatter, Diffchecker , Flex Playground.",
+      "stack": ["React", "TypeScript", "Mui"],
+      "sourceCode": "https://yair8520.github.io/dev-tools",
+      "livePreview": "",
+      "new": "חדש"
+    },
+    {
       "name": "Notes",
       "description": "אפליקציית פתקים לנייד, הוספת הערות וקישורים עם הרבה תכונות. בקר בקישור למטה למידע נוסף.",
-      "stack": ["React Native","Redux-ToolKit","TypeScript"],
+      "stack": ["React Native", "Redux-ToolKit", "TypeScript"],
       "sourceCode": "https://github.com/yair8520/Notes-Clone",
       "livePreview": "",
       "new": "חדש"
@@ -45,13 +53,6 @@
       "description": "אתר תחזית מזג אוויר, תומך בשמירת מיקומים לפי משתמש.",
       "stack": ["Node.js", "SqLite", "HTML"],
       "sourceCode": "https://github.com/yair8520/Forcast",
-      "livePreview": ""
-    },
-    {
-      "name": "WhatsRelevant",
-      "description": "אפליקציה לנייד שתסנן ותתריע, כל המידע הרלוונטי מוואטסאפ לפי בקשתך. *תחת בנייה.",
-      "stack": ["Node.js", "React Native", "Socket.io"],
-      "sourceCode": "",
       "livePreview": ""
     }
   ]

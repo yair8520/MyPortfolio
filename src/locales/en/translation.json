@@ -12,9 +12,17 @@
   "lookingFor": "I am a",
   "projectsMap": [
     {
+      "name": "Dev-Tools",
+      "description": "A WebSite that contains useful tools for the developer.\nJson Formatter, Diffchecker , Flex Playground.",
+      "stack": ["React", "TypeScript", "Mui"],
+      "sourceCode": "https://yair8520.github.io/dev-tools",
+      "livePreview": "",
+      "new": "New"
+    },
+    {
       "name": "Notes",
       "description": "Notes application for mobile,Adding Notes and Links with a lot of features. visit the link below for more info.",
-      "stack": ["React Native","Redux-ToolKit","TypeScript"],
+      "stack": ["React Native", "Redux-ToolKit", "TypeScript"],
       "sourceCode": "https://github.com/yair8520/Notes-Clone",
       "livePreview": "",
       "new": "New"
@@ -45,13 +53,6 @@
       "description": "The classic Worms game,a few maps and complete physics control.",
       "stack": ["C++", "SFML", "Box2D"],
       "sourceCode": "https://github.com/yair8520/Worms-master-game",
-      "livePreview": ""
-    },
-    {
-      "name": "Forcast",
-      "description": "Weather forecast site, supports saving locations by user .",
-      "stack": ["Node.js", "SqLite", "HTML"],
-      "sourceCode": "https://github.com/yair8520/Forcast",
       "livePreview": ""
     }
   ]

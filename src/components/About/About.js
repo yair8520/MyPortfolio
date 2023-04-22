@@ -5,7 +5,7 @@ import Typed from 'react-typed'
 import { useTranslation } from 'react-i18next'
 import { about } from '../../portfolio'
 import im from '../../static/images/comp.png'
-import cv from '../../static/images/YairGabay.CV.pdf'
+import cv from '../../static/images/Yair.Gabay.CV.pdf'
 import './About.css'
 
 const About = () => {
@@ -28,7 +28,7 @@ const About = () => {
       <p className='about__desc'>{t('description')}</p>
 
       <div className='about__contact center'>
-        <a href={cv} download="YairGabay.CV.pdf">
+        <a href={cv} download='YairGabay.CV.pdf'>
           <span type='button' className='btn btn--outline'>
             {t('resume')}
           </span>
